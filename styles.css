@@ -84,6 +84,8 @@ input, label {
 }
 
 input {
+    border-radius: 4px;
+    border: 1px #E5E7EB solid;
     height: 20px;
     min-width: 15vw;
 }
