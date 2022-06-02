@@ -14,7 +14,7 @@ body {
     position: relative;
     width: 40vw;
     height: 100vh;
-    background: center / cover no-repeat url("./halie-west-25xggax4bSA-unsplash.jpg");
+    background: center / cover no-repeat url("./images/halie-west-25xggax4bSA-unsplash.jpg");
     color: white;
 }
 
@@ -49,7 +49,7 @@ body {
 
 @font-face {
     font-family: norse-bold;
-    src: url(./Norse-Bold.otf);
+    src: url(./fonts/Norse-Bold.otf);
 }
 
 .photo-credit {
